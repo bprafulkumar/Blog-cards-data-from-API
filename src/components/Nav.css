@@ -1,0 +1,36 @@
+.total-navbar{
+    /* border: 1px solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: #F0F0F0;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.icons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#backgroundpic{
+    background-image: url("https://images.unsplash.com/photo-1529665253569-6d01c0eaf7b6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZmlsZXxlbnwwfHwwfHw%3D&w=1000&q=80");
+    background-size: cover;
+}
+.round-background{
+    background-color: #3683F0;;
+    border-radius: 250px;
+    margin-left: 25px;
+    width: 26px;
+    height: 25px;
+}
+
+.icons p i{
+   color: #FFFFFF;
+   margin-left: 4px;
+}
+#bell{
+    color: #FFFFFF;
+}
+#three-dots{
+    color: #3683F0;
+    margin-left: 20px;
+}
